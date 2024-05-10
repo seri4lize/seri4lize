@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bur4kt)
 
-
+![Visits](https://komarev.com/ghpvc/?username=Bur4kt)
