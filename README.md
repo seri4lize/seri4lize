@@ -4,6 +4,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bur4kt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seri4lize)
 
 ![Visits](https://komarev.com/ghpvc/?username=Bur4kt)
