@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Burak!</h1>
-<h2 align="left">I'm Discord Bot Developer</h2>
+<h1 align="center">Hi 👋, I'm seri4lize!</h1>
+<h2 align="left">I'm Fullstack Developer</h2>
 <li align="left">I'm trying to learn new things<br></li>
 
 <br>
