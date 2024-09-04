@@ -6,4 +6,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seri4lize&layout=compact)
 
+<details>
+  <summary>Contacts</summary>
+  <ul>
+    <li>Discord: seri4lize</li>
+  </ul>
+</details>
+
+
+
 ![Visits](https://komarev.com/ghpvc/?username=seri4lize)
